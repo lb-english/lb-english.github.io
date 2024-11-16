@@ -1,10 +1,12 @@
 body{
     background-color: black;
 }
-p, h1 {
+* {
     color: #FFFDD0;
 }
-
+input{
+  color: black;
+}
 .dwnnotif{
     position: fixed;
     left: 0;
@@ -37,6 +39,7 @@ p, h1 {
 }
 .ybtn{
     font-family: 'Poppins', sans-serif;
+    color: black;
     background-color: #87ff72;
     box-shadow: 0 5px 0 #25c946;
     border-radius: 5px;
@@ -48,6 +51,7 @@ p, h1 {
 }
 .finbtn{
     font-family: 'Poppins', sans-serif;
+    color: black;
     background-color: #FF5733;
     box-shadow: 0 5px 0 #f53434;
     border-radius: 5px;
